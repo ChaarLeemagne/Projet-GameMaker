@@ -2,12 +2,14 @@
   "resources": [
     {"id":{"name":"spr_brick","path":"sprites/spr_brick/spr_brick.yy",},"order":0,},
     {"id":{"name":"Obj_bat","path":"objects/Obj_bat/Obj_bat.yy",},"order":1,},
+    {"id":{"name":"spr_brickc","path":"sprites/spr_brickc/spr_brickc.yy",},"order":5,},
     {"id":{"name":"spr_heart","path":"sprites/spr_heart/spr_heart.yy",},"order":4,},
     {"id":{"name":"Obj_control","path":"objects/Obj_control/Obj_control.yy",},"order":3,},
     {"id":{"name":"spr_bat","path":"sprites/spr_bat/spr_bat.yy",},"order":2,},
     {"id":{"name":"spr_power","path":"sprites/spr_power/spr_power.yy",},"order":3,},
     {"id":{"name":"Obj_power","path":"objects/Obj_power/Obj_power.yy",},"order":4,},
     {"id":{"name":"Obj_brick","path":"objects/Obj_brick/Obj_brick.yy",},"order":0,},
+    {"id":{"name":"Obj_brickC","path":"objects/Obj_brickC/Obj_brickC.yy",},"order":5,},
     {"id":{"name":"Obj_ball","path":"objects/Obj_ball/Obj_ball.yy",},"order":2,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
@@ -59,7 +61,7 @@
     "IDEVersion": "2022.3.0.624",
   },
   "resourceVersion": "1.5",
-  "name": "BreakThrough[2]",
+  "name": "Casse Brique Version Test",
   "tags": [],
   "resourceType": "GMProject",
 }

@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "BreakThrough[2]",
-    "path": "BreakThrough[2].yyp",
+    "name": "Casse Brique Version Test",
+    "path": "Casse Brique Version Test.yyp",
   },
   "resourceVersion": "1.0",
   "name": "Sprite5",
