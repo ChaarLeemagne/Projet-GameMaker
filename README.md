@@ -18,4 +18,4 @@ contenant plusieurs mini jeux
 
 ## MVP :
 
-* Interface Graphique de choix de Mini jeux + Minimum le space Invador et en bonus du MVP le casse brique 
+* Interface Graphique de choix de Mini jeux + Bonus Minimum le space Invador et le casse brique 
