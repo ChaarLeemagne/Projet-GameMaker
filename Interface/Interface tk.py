@@ -8,7 +8,7 @@ def finish():
     
 window = Tk()
 
-# Assigne un nom à la fenêtre 
+# Assigne un nom à la fenêtre
 window.title("Bienvenue")
 # Taille de la fenêtre
 window.geometry('1080x720')
@@ -24,9 +24,9 @@ label_subtitle = Label(frame, text="Amusez-vous bien ;)", font=("Ubuntu",35), bg
 label_subtitle.pack(expand=YES)
 frame.pack(expand=YES)
 # Bouton
-Bouton1 = Button(window, text = "Quitter", font=("Ubuntu",20), bg="white", fg="#FFAC33", command = finish )
+Bouton1 = Button(window, text = "Quitter", font=("Ubuntu",20), bg="white", fg="#FFAC33", command = quit )
 Bouton1.pack(pady= 25, fill=X)
-Bouton2 = Button(frame, text = "Lancez l'application", font=("Ubuntu",20), bg="white", fg="#FFAC33", command = quit)
+Bouton2 = Button(frame, text = "Lancez l'application", font=("Ubuntu",20), bg="white", fg="#FFAC33", command = finish)
 Bouton2.pack(pady= 25, fill=X)
 #affichage
 window.mainloop()

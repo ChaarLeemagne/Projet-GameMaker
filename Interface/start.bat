@@ -1,2 +1,1 @@
-echo off
-start Application.py
+Python Application.py

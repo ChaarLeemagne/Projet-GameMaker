@@ -2,7 +2,7 @@ from tkinter import *
 # Création de la fenêtre
 window = Tk()
 
-# Assigne un nom à la fenêtre 
+# Assigne un nom à la fenêtre
 window.title("CrazyGames")
 # Taille de la fenêtre
 window.geometry('1080x720')
