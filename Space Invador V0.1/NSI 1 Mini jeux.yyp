@@ -1,11 +1,18 @@
 {
   "resources": [
-    {"id":{"name":"Stars","path":"objects/Stars/Stars.yy",},"order":1,},
-    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},"order":2,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"Obj_alien","path":"objects/Obj_alien/Obj_alien.yy",},"order":4,},
+    {"id":{"name":"obj_a_controller","path":"objects/obj_a_controller/obj_a_controller.yy",},"order":5,},
+    {"id":{"name":"spr_alien_2","path":"sprites/spr_alien_2/spr_alien_2.yy",},"order":6,},
+    {"id":{"name":"Obj_bullet","path":"objects/Obj_bullet/Obj_bullet.yy",},"order":1,},
+    {"id":{"name":"spr_alien_1","path":"sprites/spr_alien_1/spr_alien_1.yy",},"order":5,},
+    {"id":{"name":"Obj_input","path":"objects/Obj_input/Obj_input.yy",},"order":2,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"spr_star","path":"sprites/spr_star/spr_star.yy",},"order":2,},
+    {"id":{"name":"spr_spaceship","path":"sprites/spr_spaceship/spr_spaceship.yy",},"order":0,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":1,},
-    {"id":{"name":"SpaceShip","path":"objects/SpaceShip/SpaceShip.yy",},"order":0,},
+    {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":3,},
+    {"id":{"name":"spr_destroy","path":"sprites/spr_destroy/spr_destroy.yy",},"order":4,},
+    {"id":{"name":"Obj_SpaceShip","path":"objects/Obj_SpaceShip/Obj_SpaceShip.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -45,7 +52,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.3.0.624",
+    "IDEVersion": "2022.3.0.625",
   },
   "resourceVersion": "1.5",
   "name": "NSI 1 Mini jeux",
